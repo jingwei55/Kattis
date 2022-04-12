@@ -1,2 +1,2 @@
-# Kattis-C-
+# Kattis C++
 Coding questions 
